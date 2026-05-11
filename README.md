@@ -1,3 +1,3 @@
 ## justforfun
 
-Hello, world!
+*Hello, world!*
